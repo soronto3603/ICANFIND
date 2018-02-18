@@ -1,0 +1,156 @@
+html,body{
+    margin:0px;
+    padding:0px;
+}
+/* .new_file{
+    position:absolute;
+     
+}
+.popup{
+    position:fixed;
+    top:12px;
+    left:0px;
+    width:100%;
+    height:120px;
+
+}
+.popup_content{
+    text-align:center;
+    padding:5px;
+    margin:5px;
+    background-color:white;
+    border-radius:5px;
+    display:inline;
+} */
+#head{
+    text-align:center;
+    color:white;
+    font-size:32px;
+    margin:5px;
+}
+.purple_background{
+    background-color:#462a51;
+}
+.purple_color{
+    color:#462a51;
+}
+.preview_wrap{
+    width:90%;
+    max-width:700px;
+    background-color:white;
+    border-radius:15px;
+    border:1px dashed black;
+    padding:5px;
+    margin:5px;
+}
+.fa-image{
+    font-size:130px;
+}
+.hidden{
+    display:none;
+}
+#preview{
+    max-width:300px;
+    max-height:300px;
+    margin:20px;
+    border-radius:15px;
+    border:10px solid #462a51;
+}
+.image_upload_wrap{
+    width:90%;
+    max-width:700px;
+    background-color:#301D37;
+    border-radius:10px;
+    padding:5px;
+    margin:5px;
+    color:white;
+    font-size:30px;
+}
+.resultview{
+    max-width:300px;
+    max-height:250px;
+    margin:10px;
+    border-radius:15px;
+}
+.resultview_box{
+    width:90%;
+    max-width:700px;
+    background-color:#512A2A;
+    border-radius:15px;
+    margin:15px;
+}
+/* #512A2A
+#323551
+#324E51
+#115121 */
+.csv_info{
+    color:white;
+    text-align:left;
+    padding:20px;
+    margin-left:20px;
+}
+.data_table{
+    font-size:8px;
+    color:#888888;
+    text-align:center;
+}
+.data_table_td{
+    font-size:8px;
+    color:white;
+    text-align:center;
+
+}
+.data_question{
+    font-size:10px;
+    color:#888888;
+}
+.data_answer{
+    background-color:white;
+    color:black;
+    font-size:10px;
+    outline:none;
+    border:none;
+    width:100%;
+    height:100%;
+}
+#move_bot{
+    width: 40px;
+    height: 40px;
+    border-radius: 40px;
+    position: fixed;
+    right: 50px;
+    bottom: 30px;
+    background-color: white;
+    border: 1px solid white;
+}
+.move_bot_img{
+    width:40px;
+    height:40px;
+}
+#move_top{
+    width: 40px;
+    height: 40px;
+    border-radius: 40px;
+    position: fixed;
+    right: 50px;
+    bottom: 80px;
+    background-color: white;
+    border: 1px solid white;
+}
+.submit{
+    width:80px;
+    height:40px;
+    border-radius:5px;
+    border:1px solid white;
+    color:white;
+    line-height:40px;
+}
+.submit:hover{
+    background-color:white;
+    color:#462a51;
+}
+.move_top_img{
+    transform: rotate(180deg);
+    width:40px;
+    height:40px;
+}
