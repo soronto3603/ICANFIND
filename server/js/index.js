@@ -16,8 +16,12 @@ var colorIndex=0;
 function onclick_preview_box(){
     $("#myfile").click();
 }
+function photoviewer(filepath){
+    var json='{"title":"file","file":"'+filepath+'"}';
+    window.parent.postMessage(json,"*");
+}
 function insert_new_result(filepath){
-    var html='<div id="'+filepath+'" class="resultview_box" style="background-color:'+backgroundColorList[Math.floor(Math.random()*backgroundColorList.length)]+'">';
+    var html='<div onclick="var viewer = new Viewer(document.getElementById(\''+filepath+'\'), {});" id="'+filepath+'" class="resultview_box" style="background-color:'+backgroundColorList[Math.floor(Math.random()*backgroundColorList.length)]+'">';
     html+='<img class="resultview" src="'+filepath+'">';
     html+='</div>';
     document.getElementById('resultview_wrap').innerHTML=html+document.getElementById('resultview_wrap').innerHTML;

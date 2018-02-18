@@ -1,0 +1,97 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "com-sarriaroman-photoviewer",
+        "scope": null,
+        "escapedName": "com-sarriaroman-photoviewer",
+        "name": "com-sarriaroman-photoviewer",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "D:\\Work\\ICANFIND"
+    ]
+  ],
+  "_from": "com-sarriaroman-photoviewer@latest",
+  "_id": "com-sarriaroman-photoviewer@1.1.15",
+  "_inCache": true,
+  "_location": "/com-sarriaroman-photoviewer",
+  "_nodeVersion": "8.9.4",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/com-sarriaroman-photoviewer_1.1.15_1518108909479_0.33582393053715953"
+  },
+  "_npmUser": {
+    "name": "sarriaroman",
+    "email": "agustin478@gmail.com"
+  },
+  "_npmVersion": "5.6.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "com-sarriaroman-photoviewer",
+    "scope": null,
+    "escapedName": "com-sarriaroman-photoviewer",
+    "name": "com-sarriaroman-photoviewer",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/com-sarriaroman-photoviewer/-/com-sarriaroman-photoviewer-1.1.15.tgz",
+  "_shasum": "49d9a2be5663c8905cf5b053bcdc10eedf202331",
+  "_shrinkwrap": null,
+  "_spec": "com-sarriaroman-photoviewer",
+  "_where": "D:\\Work\\ICANFIND",
+  "author": {
+    "name": "Román A. Sarria"
+  },
+  "bugs": {
+    "url": "https://github.com/sarriaroman/photoviewer/issues"
+  },
+  "cordova": {
+    "id": "com-sarriaroman-photoviewer",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "dependencies": {},
+  "description": "This plugin is intended to show a picture from an URL into a Photo Viewer with zoom features.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-/kOE0eunVCP44sUfSWbFjgJzS3zsTi7inJmXLDbWhTflMzUGdj9CiJsFm0ppQaGK1Mrz0vixJfPpTMKKbOsTaw==",
+    "shasum": "49d9a2be5663c8905cf5b053bcdc10eedf202331",
+    "tarball": "https://registry.npmjs.org/com-sarriaroman-photoviewer/-/com-sarriaroman-photoviewer-1.1.15.tgz",
+    "fileCount": 10,
+    "unpackedSize": 24078
+  },
+  "gitHead": "8fabd5088ca680f1dbb74b7c3829777f5cd7042b",
+  "homepage": "https://github.com/sarriaroman/photoviewer#readme",
+  "keywords": [
+    "cordova",
+    "photoviewer",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "sarriaroman",
+      "email": "agustin478@gmail.com"
+    }
+  ],
+  "name": "com-sarriaroman-photoviewer",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarriaroman/photoviewer.git"
+  },
+  "version": "1.1.15"
+}

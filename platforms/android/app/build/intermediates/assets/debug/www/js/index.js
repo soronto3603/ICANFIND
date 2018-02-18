@@ -28,6 +28,7 @@ var app = {
     // 'pause', 'resume', etc.
     onDeviceReady: function() {
         this.receivedEvent('deviceready');
+        
     },
 
     // Update DOM on a Received Event
@@ -37,3 +38,11 @@ var app = {
 };
 
 app.initialize();
+
+window.onmessage=(r)=>{
+    var obj=JSON.parse(r.data);
+    if(obj.title=="file"){
+        alert("http://202.31.147.197:7680/ICANFIND"+obj.file.split(".")[1]+".png");
+        PhotoViewer.show("http://202.31.147.197:7680/ICANFIND"+obj.file.split(".")[1]+".png", 'Optional Title');
+    }
+}

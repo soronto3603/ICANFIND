@@ -1,13 +1,15 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Work\ICANFIND\platforms\android\app\src\main\AndroidManifest.xml:2:1-14:12
-INJECTED from D:\Work\ICANFIND\platforms\android\app\src\main\AndroidManifest.xml:2:1-14:12
-INJECTED from D:\Work\ICANFIND\platforms\android\app\src\main\AndroidManifest.xml:2:1-14:12
-INJECTED from D:\Work\ICANFIND\platforms\android\app\src\main\AndroidManifest.xml:2:1-14:12
+ADDED from D:\Work\ICANFIND\platforms\android\app\src\main\AndroidManifest.xml:2:1-17:12
+INJECTED from D:\Work\ICANFIND\platforms\android\app\src\main\AndroidManifest.xml:2:1-17:12
+INJECTED from D:\Work\ICANFIND\platforms\android\app\src\main\AndroidManifest.xml:2:1-17:12
+INJECTED from D:\Work\ICANFIND\platforms\android\app\src\main\AndroidManifest.xml:2:1-17:12
+MERGED from [com.commit451:PhotoView:1.2.4] C:\Users\soron\.gradle\caches\transforms-1\files-1.1\PhotoView-1.2.4.aar\e20f8e4a92c482ea51d10e84dfc97ad5\AndroidManifest.xml:2:1-12:12
 MERGED from [:CordovaLib] D:\Work\ICANFIND\platforms\android\CordovaLib\build\intermediates\manifests\full\debug\AndroidManifest.xml:20:1-27:12
-INJECTED from D:\Work\ICANFIND\platforms\android\app\src\main\AndroidManifest.xml:2:1-14:12
-INJECTED from D:\Work\ICANFIND\platforms\android\app\src\main\AndroidManifest.xml:2:1-14:12
-INJECTED from D:\Work\ICANFIND\platforms\android\app\src\main\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\soron\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.1.aar\5f885a6df4c08795783ae7391c192088\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\Work\ICANFIND\platforms\android\app\src\main\AndroidManifest.xml:2:1-17:12
+INJECTED from D:\Work\ICANFIND\platforms\android\app\src\main\AndroidManifest.xml:2:1-17:12
+INJECTED from D:\Work\ICANFIND\platforms\android\app\src\main\AndroidManifest.xml:2:1-17:12
 	package
 		ADDED from D:\Work\ICANFIND\platforms\android\app\src\main\AndroidManifest.xml:2:102-130
 		INJECTED from D:\Work\ICANFIND\platforms\android\app\src\main\AndroidManifest.xml
@@ -43,7 +45,9 @@ ADDED from D:\Work\ICANFIND\platforms\android\app\src\main\AndroidManifest.xml:4
 	android:name
 		ADDED from D:\Work\ICANFIND\platforms\android\app\src\main\AndroidManifest.xml:4:22-64
 application
-ADDED from D:\Work\ICANFIND\platforms\android\app\src\main\AndroidManifest.xml:5:5-12:19
+ADDED from D:\Work\ICANFIND\platforms\android\app\src\main\AndroidManifest.xml:5:5-13:19
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\soron\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.1.aar\5f885a6df4c08795783ae7391c192088\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\soron\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.1.aar\5f885a6df4c08795783ae7391c192088\AndroidManifest.xml:22:5-20
 	android:supportsRtl
 		ADDED from D:\Work\ICANFIND\platforms\android\app\src\main\AndroidManifest.xml:5:114-140
 	android:label
@@ -78,11 +82,29 @@ category#android.intent.category.LAUNCHER
 ADDED from D:\Work\ICANFIND\platforms\android\app\src\main\AndroidManifest.xml:9:17-77
 	android:name
 		ADDED from D:\Work\ICANFIND\platforms\android\app\src\main\AndroidManifest.xml:9:27-74
+activity#com.sarriaroman.PhotoViewer.PhotoActivity
+ADDED from D:\Work\ICANFIND\platforms\android\app\src\main\AndroidManifest.xml:12:9-143
+	android:theme
+		ADDED from D:\Work\ICANFIND\platforms\android\app\src\main\AndroidManifest.xml:12:76-140
+	android:name
+		ADDED from D:\Work\ICANFIND\platforms\android\app\src\main\AndroidManifest.xml:12:19-75
 uses-sdk
-ADDED from D:\Work\ICANFIND\platforms\android\app\src\main\AndroidManifest.xml:13:5-74
+ADDED from D:\Work\ICANFIND\platforms\android\app\src\main\AndroidManifest.xml:14:5-74
+MERGED from [com.commit451:PhotoView:1.2.4] C:\Users\soron\.gradle\caches\transforms-1\files-1.1\PhotoView-1.2.4.aar\e20f8e4a92c482ea51d10e84dfc97ad5\AndroidManifest.xml:8:5-10:41
+MERGED from [com.commit451:PhotoView:1.2.4] C:\Users\soron\.gradle\caches\transforms-1\files-1.1\PhotoView-1.2.4.aar\e20f8e4a92c482ea51d10e84dfc97ad5\AndroidManifest.xml:8:5-10:41
 MERGED from [:CordovaLib] D:\Work\ICANFIND\platforms\android\CordovaLib\build\intermediates\manifests\full\debug\AndroidManifest.xml:25:5-44
 MERGED from [:CordovaLib] D:\Work\ICANFIND\platforms\android\CordovaLib\build\intermediates\manifests\full\debug\AndroidManifest.xml:25:5-44
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\soron\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.1.aar\5f885a6df4c08795783ae7391c192088\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\soron\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.1.aar\5f885a6df4c08795783ae7391c192088\AndroidManifest.xml:20:5-43
 	android:targetSdkVersion
-		ADDED from D:\Work\ICANFIND\platforms\android\app\src\main\AndroidManifest.xml:13:42-71
+		ADDED from D:\Work\ICANFIND\platforms\android\app\src\main\AndroidManifest.xml:14:42-71
 	android:minSdkVersion
-		ADDED from D:\Work\ICANFIND\platforms\android\app\src\main\AndroidManifest.xml:13:15-41
+		ADDED from D:\Work\ICANFIND\platforms\android\app\src\main\AndroidManifest.xml:14:15-41
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Work\ICANFIND\platforms\android\app\src\main\AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from D:\Work\ICANFIND\platforms\android\app\src\main\AndroidManifest.xml:15:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\Work\ICANFIND\platforms\android\app\src\main\AndroidManifest.xml:16:5-80
+	android:name
+		ADDED from D:\Work\ICANFIND\platforms\android\app\src\main\AndroidManifest.xml:16:22-77

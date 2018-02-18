@@ -4,6 +4,9 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
     <link rel="stylesheet" type="text/css" href="css/index.css">
+    <link  href="./viewerjs-master/dist/viewer.css" rel="stylesheet">
+    <script src="./viewerjs-master/dist/viewer.js"></script>
+
 </head>
 <body class="purple_background">
     <div id=head>Mask R-CNN tool</div>

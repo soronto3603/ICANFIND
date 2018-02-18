@@ -28,6 +28,10 @@
         "source": "D:\\Work\\ICANFIND\\platforms\\android\\app\\src\\main\\res\\drawable-port-xxxhdpi\\screen.png"
     },
     {
+        "merged": "D:\\Work\\ICANFIND\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_photo.xml.flat",
+        "source": "D:\\Work\\ICANFIND\\platforms\\android\\app\\src\\main\\res\\layout\\activity_photo.xml"
+    },
+    {
         "merged": "D:\\Work\\ICANFIND\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-ldpi_icon.png.flat",
         "source": "D:\\Work\\ICANFIND\\platforms\\android\\app\\src\\main\\res\\mipmap-ldpi\\icon.png"
     },
